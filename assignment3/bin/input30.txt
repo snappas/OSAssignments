@@ -1,0 +1,6 @@
+Alan  0  10
+Barbara 3  15
+Carlos 3  4
+Deepta 4  15
+Edward 5   20
+Frances 2 12

@@ -1,0 +1,8 @@
+Compiled with:
+
+[cosc959@bayou src]$ g++ *.cpp -Wall -Werror -lpthread -o ../bin/A3
+
+To run:
+[cosc959@bayou bin]$ ./A3 <input30.txt 1
+
+where 1 is the number of clerks at the post office
